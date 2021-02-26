@@ -16,7 +16,7 @@ namespace ms_math
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new splashScreen());
+            new splashScreen().Show(); Application.Run();
         }
     }
 }

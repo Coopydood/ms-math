@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Math")]
-[assembly: AssemblyDescription("Lightweight executable web client for Microsoft Math")]
+[assembly: AssemblyDescription("Lightweight executable web client for Microsoft Math Solver")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft Corporation")]
 [assembly: AssemblyProduct("ms-math")]
